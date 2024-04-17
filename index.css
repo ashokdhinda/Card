@@ -1,0 +1,57 @@
+body {
+    background-color: gray;
+}
+
+.card {
+    background-color: white;
+    width: 185px;
+    height: 330px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.image {
+    padding: 7px;
+}
+
+.image img {
+    border-radius: 10px;
+}
+
+.content {
+    padding: 1px 20px;
+}
+
+.content span {
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: gray;
+    color: bisque;
+}
+
+.main {
+    padding: 0px 5px;
+}
+
+h1 {
+    font-size: 20px;
+    padding: 0px 10px;
+}
+
+.main p {
+    padding: 0px 10px;
+    color: grey;
+    font-size: 14px;
+}
+
+.button {
+    text-align: center;
+}
+
+.button button {
+    background-color: gray;
+    color: blue;
+    border-radius: 8px;
+    border: 1px solid gray;
+    font-size: 15px;
+}
